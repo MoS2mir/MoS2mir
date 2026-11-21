@@ -1,25 +1,27 @@
-# Hi, I'm Mohamed Samir
+# Mohamed Samir
 
-WordPress developer based in Cairo, Egypt with 3+ years of experience building sites, stores, and custom solutions with WordPress, Elementor, and WooCommerce. I contribute to WordPress core because I believe in giving back to the open source project I build on every day.
+**WordPress & WooCommerce Developer | Technical SEO Specialist | Cairo, Egypt**
 
-## WordPress core contributions
+I build and fix WordPress sites for a living: 3+ years, 30+ projects for clients across Egypt and the Gulf, including remote work for a Saudi company. I like the problems most developers skip: Arabic/RTL search, SEO for difficult product catalogs, and WooCommerce edge cases.
 
-A few tickets I've contributed patches and testing to on [WordPress core Trac](https://core.trac.wordpress.org/):
+## What I work on
 
-- [#65737: mediaelementplayer-legacy - the Flash message is no longer needed](https://core.trac.wordpress.org/ticket/65737) (Media, patch in review)
-- [#60532: Add a `pre_set_object_terms` action](https://core.trac.wordpress.org/ticket/60532)
-- [#61659: Add New links at the top of some pages become huge on smaller screens](https://core.trac.wordpress.org/ticket/61659) (pending)
-- [#65321: Global `--wp--style--border--color` variable applies unwanted `border-style: solid` to Cover block background span](https://core.trac.wordpress.org/ticket/65321) (pending)
-- [Gutenberg #87145: Dialog popup clips the scroll-area focus outline](https://github.com/WordPress/gutenberg/issues/87145) (patch ready)
+- **WordPress core**: contributor, with open pull requests against `wordpress-develop`
+- **WooCommerce**: custom stores, payment and shipping integrations, performance
+- **Technical SEO**: indexation control, structured data, site architecture, discontinued-product SEO
+- **Arabic web**: making Arabic search in WordPress actually work (collation, normalization, diacritics)
 
-## Tech stack
+## Plugins
 
-- **CMS & builders:** WordPress, WooCommerce, Elementor
-- **Languages:** PHP, JavaScript, HTML5, CSS3
-- **Data & tools:** MySQL, Git
+- **Arabic Search Fix**: fixes Arabic search in WordPress. Coming to WordPress.org.
+- **Discontinued Product SEO**: SEO handling for discontinued WooCommerce products. Coming to WordPress.org.
+- **[Noindex Parameters](https://wordpress.org/plugins/noindex-parameters/)**: control indexation of parameterized URLs. Live on WordPress.org.
+- **[SEO Content Strategy Manager](https://wordpress.org/plugins/seo-content-strategy-manager/)**: plan and manage SEO content. Live on WordPress.org.
 
-## Find me online
+## Around the web
 
-- LinkedIn: [linkedin.com/in/mosamirdev](https://www.linkedin.com/in/mosamirdev)
 - WordPress.org: [profiles.wordpress.org/mosamirdev](https://profiles.wordpress.org/mosamirdev/)
-- X: [@mosamirdev](https://x.com/mosamirdev)
+- Stack Overflow: [user 33330463](https://stackoverflow.com/users/33330463)
+- Email: na845629@gmail.com
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoS2mir&show_icons=true&hide_title=true)

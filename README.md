@@ -20,6 +20,7 @@ I build and fix WordPress sites for a living: 3+ years, 30+ projects for clients
 
 ## Around the web
 
+- Blog (Arabic, WordPress & SEO): [mosa2mir.blogspot.com](https://mosa2mir.blogspot.com)
 - WordPress.org: [profiles.wordpress.org/mosamirdev](https://profiles.wordpress.org/mosamirdev/)
 - Stack Overflow: [user 33330463](https://stackoverflow.com/users/33330463)
 - Email: na845629@gmail.com
